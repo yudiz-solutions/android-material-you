@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="btn_material_style">
+        <item name="cornerRadius">16dp</item>
+        <item name="backgroundTint">@color/material_dynamic_primary10</item>
+    </style>
+
+</resources>
